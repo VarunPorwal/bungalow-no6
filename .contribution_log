@@ -24,3 +24,4 @@
 2026-05-14T17:55:04 - Update color variables
 2026-05-16T19:34:43 - Fix image aspect ratios
 2026-05-19T14:26:15 - Code cleanup
+2026-05-20T21:03:21 - Refactor data fetching
