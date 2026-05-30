@@ -32,3 +32,4 @@
 2026-05-25T09:47:05 - Add error boundaries
 2026-05-28T12:15:32 - Rework mobile nav
 2026-05-29T10:42:40 - Update Sanity schema
+2026-05-30T12:29:19 - Fix build warnings
